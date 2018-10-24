@@ -9,3 +9,4 @@ Cons:
 - Once blinked, it turns off.
 - No safety switch available.
 
+The improved version can be found -> <a href="https://github.com/ashumeow/SwitchedLED-AVR">here</a>
